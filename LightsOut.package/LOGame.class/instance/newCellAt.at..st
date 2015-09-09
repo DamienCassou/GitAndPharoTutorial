@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 newCellAt: i at: j
 	"Crée une cellule à la position (i,j) et l'ajoute dans ma représentation graphique à la
 position correcte. Retourne une nouvelle cellule"
