@@ -1,4 +1,4 @@
-as yet unclassified
+foo
 initialize
 	| sampleCell width height n |
 	super initialize.
