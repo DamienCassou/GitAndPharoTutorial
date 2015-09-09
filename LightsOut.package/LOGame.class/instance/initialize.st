@@ -1,4 +1,4 @@
-foo
+initialization
 initialize
 	| sampleCell width height n |
 	super initialize.
